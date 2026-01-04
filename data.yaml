@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/YOLOV8/data/train
+val: /content/drive/MyDrive/YOLOV8/data/val
+
+nc: 1
+names: ['palm']
